@@ -1,0 +1,13 @@
+{
+  "name": "ql/uri-template",
+  "description": "clone of now deleted QuickenLoans/uri-template for helpscout",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Matt Nagi",
+      "email": "mattnagi@quickenloans.com"
+    }
+  ],
+  "require": {}
+}
